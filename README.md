@@ -1,7 +1,5 @@
 # Portfolio Nathan Tjokrosaputra
 
-# Nathan Tjokrosaputra
-
 **Dynamic and Proactive IT Specialist**
 
 I'm Nathan Tjokrosaputra, a dynamic and proactive IT Specialist currently serving as an IT Application Development Specialist at PT Nanobank Syariah. My key strengths include being a fast learner, ambitious, and highly adaptive to new environments and challenges. With a creative mindset, I strive to deliver high-quality digital applications through innovative solutions.
