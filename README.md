@@ -1,8 +1,23 @@
-# React + Vite
+# Portfolio Nathan Tjokrosaputra
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Nathan Tjokrosaputra
 
-Currently, two official plugins are available:
+**Dynamic and Proactive IT Specialist**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I'm Nathan Tjokrosaputra, a dynamic and proactive IT Specialist currently serving as an IT Application Development Specialist at PT Nanobank Syariah. My key strengths include being a fast learner, ambitious, and highly adaptive to new environments and challenges. With a creative mindset, I strive to deliver high-quality digital applications through innovative solutions.
+
+## 🛠️ Key Skills & Technologies
+
+- **AppSheet**
+- **Google Apps Script**
+- **React**
+- **Vite**
+- **Tailwind CSS**
+- **CSS**
+- **JavaScript**
+
+I continuously seek to expand my expertise and adapt to new technologies that can enhance development efficiency and product quality.
+
+## 📂 Projects
+
+At the moment, I don't have any public projects to showcase, but I am working on innovative solutions within my current role. Stay tuned for future updates!
